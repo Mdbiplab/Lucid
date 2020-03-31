@@ -4,7 +4,7 @@
     margin:10,
     nav:false,
     dots:true,
-    autoplay: false,
+    autoplay: true,
     autoplayTimeout: 8000,
     responsive:{
         0:{
